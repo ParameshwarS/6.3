@@ -1,0 +1,23 @@
+1. LOAD
+   Loads the data into Pig relation.
+
+2. STORE
+   Stores the loaded data in the file system.
+
+3. DUMP
+   Used to print the data present in the relation on the console.
+
+4. FOREACH
+   Used to generate specified data transformations for column data.
+
+5. FILTER
+   Filters the data based on condition and displays it .
+
+6. GROUP BY
+   Groups the data into one or more relation.
+
+7. ORDER BY
+   Used to display the contents of the relation in sorted order(asc/desc.
+  
+8. DESCRIBE 
+   Displays the schema of the relation.
